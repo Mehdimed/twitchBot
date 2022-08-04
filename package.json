@@ -1,0 +1,16 @@
+{
+  "name": "twitchbotmla",
+  "version": "1.0.0",
+  "description": "twitch bot to manage My Little Adventure",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mehdimed",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "dotenv": "^16.0.1",
+    "tmi.js": "^1.8.5"
+  }
+}
